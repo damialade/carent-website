@@ -30,9 +30,6 @@ html {
   overflow-x: hidden !important;
 }
 
-.sticky {
-  top: 0;
-}
 input,
 button {
   appearance: none;
