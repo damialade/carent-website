@@ -9,13 +9,21 @@ import Schedule from "./components/modules/schedule";
 import FooterNav from "./components/modules/footer-nav";
 import Footer from "./components/modules/footer";
 import Copyright from "./components/modules/copyright";
+import Navbar from "./components/modules/navbar";
+import Dropdown from "./components/modules/dropdown";
 
 export default function Home() {
   return (
     <main>
+      <div className="hidden lg:block">
+        <Navbar />
+      </div>
+      <div className="lg:hidden block">
+        <Dropdown />
+      </div>
       <Hero />
-      <Solutions />
       <AboutUs />
+      <Solutions />
       <Features />
       <Intergrations />
       <How />

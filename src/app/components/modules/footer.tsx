@@ -4,9 +4,12 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <header className="mx-auto max-w-[90%] my-24 hidden md:block text-app-grey">
-      <div className="flex justify-between ">
-        <div className="ml-16">
+    <header className="mx-auto max-w-[90%] my-24 block text-app-grey">
+      <div
+        className="md:flex md:justify-between space-y-6 md:space-y-0"
+        id="contact"
+      >
+        <div className="lg:ml-16">
           <Link legacyBehavior href="/">
             <a className="flex items-left justify-left">
               <Image
@@ -18,14 +21,14 @@ const Footer = () => {
               />
             </a>
           </Link>
-          <p className="w-80 font-normal text-left text-sm text-app-grey mt-4">
-            Lörem ipsum od ohet dilogi. Bell trabel, samuligt, ohöbel utom
-            diska. Jinesade bel när feras redorade i belogi. FAR paratyp i
-            muvåning, och pesask vyfisat. Viktiga poddradio har un mad och inde.
+          <p className="w-60 lg:w-80 font-normal text-left text-sm text-app-grey mt-4">
+            Don't wait - create your account today and unlock the full potential
+            of your car rental business. Get started now and experience the
+            transformative power of our SaaS platform.
           </p>
         </div>
         <div className="">
-          <h5 className="text-btn-green font-bold text-lg mb-2">
+          <h5 className="text-btn-green font-bold text-md lg:text-lg mb-2">
             Have you any questions?
           </h5>
           <div className="flex space-x-4">
