@@ -22,9 +22,9 @@ const Footer = () => {
             </a>
           </Link>
           <p className="w-60 lg:w-80 font-normal text-left text-sm text-app-grey mt-4">
-            Don't wait - create your account today and unlock the full potential
-            of your car rental business. Get started now and experience the
-            transformative power of our SaaS platform.
+            Don &apos;t wait - create your account today and unlock the full
+            potential of your car rental business. Get started now and
+            experience the transformative power of our SaaS platform.
           </p>
         </div>
         <div className="">

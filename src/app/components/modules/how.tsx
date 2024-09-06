@@ -98,7 +98,7 @@ const How = () => {
                 </h3>
                 <p className="text-left text-app-grey font-small md:w-96 md:text-md lg:text-lg">
                   Creating your account is fast and straightforward. Provide a
-                  few key details about your business, and you'll be up and
+                  few key details about your business, and you&apos;ll be up and
                   running in no time.
                 </p>
               </div>
@@ -134,7 +134,7 @@ const How = () => {
                 </h3>
                 <p className="text-left text-app-grey font-small md:w-96 md:text-md lg:text-lg">
                   Our dedicated onboarding team will guide you through the
-                  initial setup, ensuring you're comfortable navigating the
+                  initial setup, ensuring you&apos;re comfortable navigating the
                   platform and taking advantage of all its features
                 </p>
               </div>
@@ -169,9 +169,9 @@ const How = () => {
                   Track performance in real time
                 </h3>
                 <p className="text-left text-app-grey font-small md:w-96 md:text-md lg:text-lg">
-                  As soon as your account is activated, you'll gain full access
-                  to our comprehensive suite of car rental management tools.
-                  Start automating workflows, optimizing your fleet, and
+                  As soon as your account is activated, you&apos;ll gain full
+                  access to our comprehensive suite of car rental management
+                  tools. Start automating workflows, optimizing your fleet, and
                   delighting customers right away.
                 </p>
               </div>
