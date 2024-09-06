@@ -6,7 +6,7 @@ const Copyright = () => {
       <div>
         <hr className="h-0.5 my-2 bg-gray-200 border-0 dark:bg-gray-700" />
         <p className="text-center text-md font-normal">
-          Copyright © 2024. Carent . All rights reserved.
+          Copyright &copy; 2024. Carent . All rights reserved.
         </p>
       </div>
     </header>

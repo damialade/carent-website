@@ -17,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={jost.className}>
+      <body className={`${jost.className} antialiased`}>
         {" "}
         <link rel="icon" href="/images/logo3.png" sizes="32x32" />
         {children}
