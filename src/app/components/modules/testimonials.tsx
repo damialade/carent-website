@@ -150,7 +150,7 @@ const Testimonials = () => {
                 do business. We can now handle marketing, maintenance, payments,
                 and reporting from a single platform. The automation features
                 save us countless hours, while the reporting gives us a clear
-                picture of our KPIs. We've seen a significant boost in
+                picture of our KPIs. We&apos;ve seen a significant boost in
                 efficiency and customer satisfaction since implementing.&quot;
               </p>
               <p className="font-bold text-lg">
